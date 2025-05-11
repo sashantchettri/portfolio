@@ -10,16 +10,16 @@ export default function ProjectsPage() {
       <div className="p-4 border rounded shadow">
         <h2 className="text-2xl font-semibold">Learning Management System (LMS)</h2>
         <p>
-          I developed a library management system using C, which includes features for user management and book management. The system allows administrators to add, update, and delete user records, as well as manage book inventories. All data is stored persistently in a `.csv` file, ensuring that user and book information is retained between sessions.
+          I developed a library management system using C, which includes features for user management and book management. The system allows administrators to add, update, and delete user records, as well as manage book inventories. All data is stored persistently in a .csv file, ensuring that user and book information is retained between sessions.
         </p>
         <p>
           The user management module enables the creation of user profiles, including details such as user ID, name, and contact information. Similarly, the book management module allows for adding new books, updating existing records, and removing books from the inventory. The system also supports searching for users or books based on specific criteria, making it efficient to locate records.
         </p>
         <p>
-          The `.csv` file format was chosen for its simplicity and ease of use, allowing the system to read and write data efficiently. I implemented file handling operations in C to ensure data integrity and prevent corruption during read/write processes. The system also includes input validation to handle edge cases and ensure that only valid data is stored.
+          The .csv file format was chosen for its simplicity and ease of use, allowing the system to read and write data efficiently. I implemented file handling operations in C to ensure data integrity and prevent corruption during read/write processes. The system also includes input validation to handle edge cases and ensure that only valid data is stored.
         </p>
         <p>
-          This project provided me with valuable experience in procedural programming and file I/O operations in C. Debugging and optimizing the system to handle large datasets was a challenging yet rewarding task. I also gained a deeper understanding of data structures, such as arrays and linked lists, which were used to manage records in memory before saving them to the `.csv` file.
+          This project provided me with valuable experience in procedural programming and file I/O operations in C. Debugging and optimizing the system to handle large datasets was a challenging yet rewarding task. I also gained a deeper understanding of data structures, such as arrays and linked lists, which were used to manage records in memory before saving them to the .csv file.
         </p>
         <p>
           The library management system has potential applications in small libraries or educational institutions, where a lightweight and efficient solution is needed for managing books and users. This hands-on project helped me strengthen my programming fundamentals and problem-solving skills, making it a significant addition to my portfolio.
