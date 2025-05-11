@@ -13,7 +13,7 @@ export default function AboutPage() {
         className="rounded-full mb-6"
       />
       <p className="text-lg">
-        I’m Sashant Chettri, a third-year Electrical and Electronics Engineering student at Griffith University. My academic journey has been driven by a deep passion for technology and innovation, particularly in the fields of embedded systems, signal processing, and silicon design. These areas fascinate me because they form the backbone of modern electronics and computing, enabling groundbreaking advancements in various industries.
+        I am Sashant Chettri, a third-year Electrical and Electronics Engineering student at Griffith University. My academic journey has been driven by a deep passion for technology and innovation, particularly in the fields of embedded systems, signal processing, and silicon design. These areas fascinate me because they form the backbone of modern electronics and computing, enabling groundbreaking advancements in various industries.
       </p>
       <p className="text-lg mt-4">
         Over the years, I have honed my skills in programming languages such as C, Python, Rust, and JavaScript. Each of these languages has allowed me to explore different aspects of software and hardware development. For instance, I use C and Rust for low-level programming and embedded systems, while Python and JavaScript enable me to work on high-level applications and full-stack development. This diverse skill set has empowered me to tackle complex problems and build innovative solutions.
