@@ -1,4 +1,7 @@
 // app/projects/page.tsx
+
+/* eslint-disable react/no-unescaped-entities */
+
 export default function ProjectsPage() {
   return (
     <section className="max-w-3xl mx-auto space-y-8">

@@ -1,4 +1,6 @@
 // app/layout.tsx
+/* eslint-disable react/no-unescaped-entities */
+
 import './globals.css';
 import { ReactNode } from 'react';
 import Link from 'next/link';

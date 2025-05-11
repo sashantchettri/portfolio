@@ -1,4 +1,6 @@
 // app/contact/page.tsx
+/* eslint-disable react/no-unescaped-entities */
+
 export default function ContactPage() {
   return (
     <section className="max-w-3xl mx-auto">
